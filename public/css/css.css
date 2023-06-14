@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+
+.larger {
+    font-size: x-large;
+    font-family: "Oswald";
+}
+
+body {
+    background-image: url(../images/BG.jpg);
+}
+
+.img {
+    padding-bottom: 150px;
+    padding-left: 100px;
+}
+
+#imgtext {
+    padding-left: 500px;
+}
+
+#h1 {
+    font-family: "Oswald";
+}
